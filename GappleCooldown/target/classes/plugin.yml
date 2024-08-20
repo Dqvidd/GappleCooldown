@@ -1,0 +1,15 @@
+name: GappleCooldown
+version: '1.0'
+main: me.gmip.gappleCooldown.GappleCooldown
+api-version: '1.21'
+prefix: a
+authors: [ Dqvidd ]
+description: 'Cooldown Plugin for Gapple and Enderpearl'
+commands:
+  gapple:
+    description: 'Comando para recargar el plugin GappleCooldown'
+    usage: /gapple <reload>
+permissions:
+  gapple.reload:
+    description: "Permiso para recargar la configuración del plugin"
+    default: op

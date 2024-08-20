@@ -1,0 +1,9 @@
+cooldowns:
+  gapple:
+    time: 12
+    message: "§6§l[!] §eTienes que esperar §6%time% §epara volver a usar esto!"
+    finalMessage: "§6§l[!] §aYa puedes volver a usar la §6§lGapple§A nuevamente!"
+  pearl:
+    time: 16
+    message: "§5§l[!] §dTienes que esperar §5%time% §dpara volver a usar esto!"
+    finalMessage: "§d§l[!] §aYa puedes volver a usar la §5§lEnder Pearl§A nuevamente!"
